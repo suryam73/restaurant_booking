@@ -2,8 +2,7 @@
 Spring Boot Backend:
 Spring Boot Project Structure:
 
-css
-Copy code
+
 restaurant-management-backend
 ├── src
 │   ├── main
